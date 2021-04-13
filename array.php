@@ -99,7 +99,7 @@ $ch = curl_init($CallUrlMain);
                         echo "2 TCI_Server_Manager JASSM=0 " . $instanceName . " - CRITICAL - Server Manager - Not In Running State";
                 }
 
-
+dvdsvvdsDVVDv
 
 
 ?>
